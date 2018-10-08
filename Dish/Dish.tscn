@@ -1,0 +1,31 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Dish/Dish.gd" type="Script" id=1]
+[ext_resource path="res://Dish/textures/256_64_sara.png" type="Texture" id=2]
+
+[node name="Dish" type="Area2D"]
+
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+collision_layer = 3
+collision_mask = 3
+audio_bus_override = false
+audio_bus_name = "Master"
+script = ExtResource( 1 )
+_sections_unfolded = [ "Collision", "Transform" ]
+speed = 1000
+
+[node name="icon" type="Sprite" parent="." index="0"]
+
+texture = ExtResource( 2 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." index="1"]
+
+build_mode = 0
+polygon = PoolVector2Array( 1.82812, 2.62395, -67.8784, -1.15858, -112.188, -16.2887, -114.349, -1.69894, -78.1453, 14.5119, 69.3732, 14.5119, 103.956, 3.70467, 120.167, -9.80435, 75.8576, 0.462494 )
+
+

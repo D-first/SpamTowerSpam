@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/becon.ogg-b0a7520a5dfed4d0983f188e50f2fef3.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/becon.ogg"
+dest_files=[ "res://.import/becon.ogg-b0a7520a5dfed4d0983f188e50f2fef3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

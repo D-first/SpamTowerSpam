@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Viking_spam03.ogg-51118790c77169f35f6e538178e52dc4.oggstr"
+
+[deps]
+
+source_file="res://Viking/sounds/Viking_spam03.ogg"
+dest_files=[ "res://.import/Viking_spam03.ogg-51118790c77169f35f6e538178e52dc4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

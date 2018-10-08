@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/chiken.ogg-3bafb990a4258cf01f99f9fc1dacc432.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/chiken.ogg"
+dest_files=[ "res://.import/chiken.ogg-3bafb990a4258cf01f99f9fc1dacc432.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

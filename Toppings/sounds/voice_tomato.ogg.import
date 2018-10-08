@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/voice_tomato.ogg-f0e52f44cb32ab254f439e1b296e5615.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/voice_tomato.ogg"
+dest_files=[ "res://.import/voice_tomato.ogg-f0e52f44cb32ab254f439e1b296e5615.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/lettuce.ogg-ee3e530823f9208b4932d8312c47b7d1.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/lettuce.ogg"
+dest_files=[ "res://.import/lettuce.ogg-ee3e530823f9208b4932d8312c47b7d1.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

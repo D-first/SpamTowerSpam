@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/voice_sausage.ogg-18b309364575b4107bbfc952570abb5d.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/voice_sausage.ogg"
+dest_files=[ "res://.import/voice_sausage.ogg-18b309364575b4107bbfc952570abb5d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

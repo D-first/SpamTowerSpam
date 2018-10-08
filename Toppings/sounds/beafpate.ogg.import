@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/beafpate.ogg-5b31c4e4163c8e2067f02318ed528fc3.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/beafpate.ogg"
+dest_files=[ "res://.import/beafpate.ogg-5b31c4e4163c8e2067f02318ed528fc3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

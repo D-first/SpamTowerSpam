@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cheez.ogg-d29f32253f67015a8bed7443214f08b6.oggstr"
+
+[deps]
+
+source_file="res://Toppings/sounds/cheez.ogg"
+dest_files=[ "res://.import/cheez.ogg-d29f32253f67015a8bed7443214f08b6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
